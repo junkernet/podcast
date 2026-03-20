@@ -5,7 +5,7 @@
     <link>https://junkernet.github.io/podcast</link>
     <description>Personal audio feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Mar 2026 10:49:18 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 11:48:59 -0600</lastBuildDate>
     <atom:link href="https://junkernet.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Private</itunes:author>
     <itunes:owner>
@@ -20,6 +20,15 @@
       <guid isPermaLink="true">https://junkernet.github.io/podcast/episodes/2026-03-20-test-episode-system-check.mp3</guid>
       <enclosure url="https://junkernet.github.io/podcast/episodes/2026-03-20-test-episode-system-check.mp3" length="199200" type="audio/mpeg"/>
       <itunes:summary>This is a test episode for Test episode. System check.</itunes:summary>
+    </item>
+    <item>
+      <title>Rick Hogaboam Obituary — Gem State Chronicle</title>
+      <description>Last night, as I was finishing a meeting of the Eagle Public Library Board of Trustees, I heard sirens and saw numerous emergency vehicles rushing to Eagle City Hall. Mayors from across the region had gathered for a meeting of the Treasure Valley Partnership, and I wondered what had happened.
+Nampa ...</description>
+      <pubDate>Fri, 20 Mar 2026 11:48:59 -0600</pubDate>
+      <guid isPermaLink="true">https://junkernet.github.io/podcast/episodes/2026-03-20-rick-hogaboam-obituary-gem-state-chronicle.mp3</guid>
+      <enclosure url="https://junkernet.github.io/podcast/episodes/2026-03-20-rick-hogaboam-obituary-gem-state-chronicle.mp3" length="3759360" type="audio/mpeg"/>
+      <itunes:summary>Last night, as I was finishing a meeting of the Eagle Public Library Board of Trustees, I heard sirens and saw numerous emergency vehicles rushing to Eagle City Hall. Mayors from across the region had gathered for a meeting of the Treasure Valley Partners</itunes:summary>
     </item>
   </channel>
 </rss>
