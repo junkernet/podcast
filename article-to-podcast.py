@@ -454,7 +454,6 @@ def extract_metadata(url: str) -> dict:
 
     if tavily_text and not metadata["source"]:
         # Extract domain as source name
-        from urllib.parse import urlparse
         domain = urlparse(metadata["url"]).netloc.replace('www.', '')
         known = {
             'idahocapitalsun.com': 'Idaho Capital Sun',
@@ -487,6 +486,43 @@ def extract_metadata(url: str) -> dict:
         metadata["text"] = "\n".join(lines)
 
     metadata["word_count"] = len(metadata["text"].split())
+
+    # Browser fallback: if content seems truncated or from a known paywalled site,
+    # try authenticated browser extraction
+    browser_script = Path(__file__).parent / "browser-extract.py"
+    is_short = metadata["word_count"] < 400
+    known_paywall = any(d in url for d in [
+        "dailywire.com", "wsj.com", "nytimes.com", "washingtonpost.com",
+        "theathletic.com", "bloomberg.com",
+    ])
+    if browser_script.exists() and (is_short or known_paywall):
+        reason = "paywalled site" if known_paywall else f"short content ({metadata['word_count']} words)"
+        print(f"  Trying browser extraction ({reason})...")
+        try:
+            result = subprocess.run(
+                ["python3", str(browser_script), url],
+                capture_output=True, text=True, timeout=90,
+            )
+            if result.returncode == 0 and result.stdout.strip():
+                browser_data = json.loads(result.stdout)
+                browser_wc = browser_data.get("word_count", 0)
+                if browser_wc > metadata["word_count"]:
+                    print(f"  Browser got {browser_wc} words (vs {metadata['word_count']} from Tavily)")
+                    metadata["text"] = browser_data["text"]
+                    metadata["word_count"] = browser_wc
+                    if browser_data.get("title") and not metadata["title"]:
+                        metadata["title"] = browser_data["title"]
+                    if browser_data.get("author") and not metadata["author"]:
+                        metadata["author"] = browser_data["author"]
+                    if browser_data.get("source") and not metadata["source"]:
+                        metadata["source"] = browser_data["source"]
+                else:
+                    print(f"  Browser got {browser_wc} words (not better), keeping Tavily result")
+        except subprocess.TimeoutExpired:
+            print("  Browser extraction timed out, using existing content")
+        except Exception as e:
+            print(f"  Browser extraction failed: {e}")
+
     return metadata
 
 
