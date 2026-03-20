@@ -6,7 +6,7 @@
     <link>https://junkernet.github.io/podcast</link>
     <description>Claw Feed — private audio.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Mar 2026 14:16:59 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 14:18:18 -0600</lastBuildDate>
     <atom:link href="https://junkernet.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Private</itunes:author>
     <itunes:owner>
@@ -103,6 +103,25 @@ Read the original: https://www.dailywire.com/news/iranian-leaders-we-have-the-am
       <itunes:episode>4</itunes:episode>
       <itunes:image href="https://junkernet.github.io/podcast/episodes/2026-03-20-iranian-leaders-we-have-the-americans-exactly-where-we-want-art.jpg"/>
       <podcast:transcript url="https://junkernet.github.io/podcast/episodes/2026-03-20-iranian-leaders-we-have-the-americans-exactly-where-we-want.vtt" type="text/vtt" language="en" rel="captions"/>
+    </item>
+    <item>
+      <title>[Dailywire] Your Tax Dollars Could Still Be On The Line In Fight Over Trans Surgeries for Kids (3m)</title>
+      <description><![CDATA[A Biden-appointed judge in Oregon has blocked a Trump administration declaration that labeled transgender medical procedures for children as unsafe and ineffective, siding with over a dozen Democratic attorneys general. This ruling is significant as it protects access to healthcare services for transgender youth amid efforts by the Trump administration to restrict federal funding for providers offering such treatments. The decision underscores ongoing legal and political battles over transgender rights and healthcare access in the U.S.
+
+Source: Dailywire
+Author: Unknown
+Published: March 20, 2026
+Converted: March 20, 2026
+Read the original: https://www.dailywire.com/news/your-tax-dollars-could-still-be-on-the-line-in-fight-over-trans-surgeries-for-kids?author=Leif+Le+Mahieu&category=undefined&elementPosition=2&row=3&rowHeadline=Latest+News&rowType=Vertical+Carousel&title=Your+Tax+Dollars+Could+Still+Be+On+The+Line+In+Fight+Over+Trans+Surgeries+for+Kids]]></description>
+      <pubDate>Fri, 20 Mar 2026 14:18:18 -0600</pubDate>
+      <guid isPermaLink="true">https://junkernet.github.io/podcast/episodes/2026-03-20-your-tax-dollars-could-still-be-on-the-line-in-fight-over-tr.mp3</guid>
+      <enclosure url="https://junkernet.github.io/podcast/episodes/2026-03-20-your-tax-dollars-could-still-be-on-the-line-in-fight-over-tr.mp3" length="3296160" type="audio/mpeg"/>
+      <itunes:duration>164</itunes:duration>
+      <itunes:summary>A Biden-appointed judge in Oregon has blocked a Trump administration declaration that labeled transgender medical procedures for children as unsafe and ineffective, siding with over a dozen Democratic attorneys general.</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>5</itunes:episode>
+      <itunes:image href="https://junkernet.github.io/podcast/episodes/2026-03-20-your-tax-dollars-could-still-be-on-the-line-in-fight-over-tr-art.jpg"/>
+      <podcast:transcript url="https://junkernet.github.io/podcast/episodes/2026-03-20-your-tax-dollars-could-still-be-on-the-line-in-fight-over-tr.vtt" type="text/vtt" language="en" rel="captions"/>
     </item>
   </channel>
 </rss>
