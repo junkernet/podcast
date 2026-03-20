@@ -6,7 +6,7 @@
     <link>https://junkernet.github.io/podcast</link>
     <description>Claw Feed — private audio.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Mar 2026 13:47:52 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 14:14:57 -0600</lastBuildDate>
     <atom:link href="https://junkernet.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Private</itunes:author>
     <itunes:owner>
@@ -66,5 +66,24 @@ Read the original: https://idahocapitalsun.com/2026/03/19/idaho-budget-committee
     
     
     
+    <item>
+      <title>[Dailywire] Afroman’s Victory Is America’s Victory (5m)</title>
+      <description><![CDATA[The article highlights Afroman's legal victory against police officers who raided his home, asserting that his fight for justice embodies the spirit of American freedom of speech. Despite facing a defamation suit, Afroman used his music and public persona to challenge the injustices he experienced, ultimately winning his case and reinforcing the importance of accountability in law enforcement. This matters as it underscores the role of individual citizens in standing up against governmental overreach and the significance of protecting constitutional rights.
+
+Source: Dailywire
+Author: Unknown
+Published: March 20, 2026
+Converted: March 20, 2026
+Read the original: https://www.dailywire.com/news/afromans-victory-is-americas-victory?author=Rich+Cromwell&category=undefined&elementPosition=8&row=3&rowHeadline=Latest+News&rowType=Vertical+Carousel&title=Afroman%E2%80%99s+Victory+Is+America%E2%80%99s+Victory]]></description>
+      <pubDate>Fri, 20 Mar 2026 14:14:57 -0600</pubDate>
+      <guid isPermaLink="true">https://junkernet.github.io/podcast/episodes/2026-03-20-afromans-victory-is-americas-victory.mp3</guid>
+      <enclosure url="https://junkernet.github.io/podcast/episodes/2026-03-20-afromans-victory-is-americas-victory.mp3" length="5464320" type="audio/mpeg"/>
+      <itunes:duration>273</itunes:duration>
+      <itunes:summary>The article highlights Afroman's legal victory against police officers who raided his home, asserting that his fight for justice embodies the spirit of American freedom of speech.</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>3</itunes:episode>
+      <itunes:image href="https://junkernet.github.io/podcast/episodes/2026-03-20-afromans-victory-is-americas-victory-art.jpg"/>
+      <podcast:transcript url="https://junkernet.github.io/podcast/episodes/2026-03-20-afromans-victory-is-americas-victory.vtt" type="text/vtt" language="en" rel="captions"/>
+    </item>
   </channel>
 </rss>
