@@ -6,7 +6,7 @@
     <link>https://junkernet.github.io/podcast</link>
     <description>Claw Feed — private audio.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Mar 2026 12:34:48 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 12:38:44 -0600</lastBuildDate>
     <atom:link href="https://junkernet.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Private</itunes:author>
     <itunes:owner>
@@ -38,6 +38,24 @@ Read the original: https://gemstatechronicle.com/2026/03/rest-in-peace-rick-hoga
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>1</itunes:episode>
       <podcast:transcript url="https://junkernet.github.io/podcast/episodes/2026-03-20-rest-in-peace-rick-hogaboam.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Untitled Episode (2m)</title>
+      <description><![CDATA[The Idaho budget committee has introduced a new health and human services budget that includes an additional $21 million in cuts to Medicaid disability services, replacing a previously rejected budget. This reduction will not only impact essential services but also result in the loss of $44 million in federal funding, totaling a $65 million shortfall. These cuts are part of a broader trend of budget reductions pushed by Idaho Republicans and the governor throughout the 2026 legislative session, raising concerns about the implications for vulnerable populations reliant on these services.
+
+Source: 
+Author: Unknown
+Published: Unknown
+Converted: March 20, 2026
+Read the original: https://idahocapitalsun.com/2026/03/19/idaho-budget-committee-introduces-new-health-and-welfare-budget-with-additional-cuts/]]></description>
+      <pubDate>Fri, 20 Mar 2026 12:38:44 -0600</pubDate>
+      <guid isPermaLink="true">https://junkernet.github.io/podcast/episodes/2026-03-20-untitled-episode.mp3</guid>
+      <enclosure url="https://junkernet.github.io/podcast/episodes/2026-03-20-untitled-episode.mp3" length="2980320" type="audio/mpeg"/>
+      <itunes:duration>149</itunes:duration>
+      <itunes:summary>The Idaho budget committee has introduced a new health and human services budget that includes an additional $21 million in cuts to Medicaid disability services, replacing a previously rejected budget.</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>2</itunes:episode>
+      <podcast:transcript url="https://junkernet.github.io/podcast/episodes/2026-03-20-untitled-episode.vtt" type="text/vtt"/>
     </item>
   </channel>
 </rss>
