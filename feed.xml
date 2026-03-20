@@ -1,11 +1,12 @@
 <?xml version="1.0" ?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Private Feed</title>
     <link>https://junkernet.github.io/podcast</link>
     <description>Personal audio feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Mar 2026 11:48:59 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 12:03:40 -0600</lastBuildDate>
     <atom:link href="https://junkernet.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Private</itunes:author>
     <itunes:owner>
@@ -13,6 +14,11 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <itunes:image href="https://junkernet.github.io/podcast/artwork.jpg"/>
+    <image>
+      <url>https://junkernet.github.io/podcast/artwork.jpg</url>
+      <title>Private Feed</title>
+    </image>
     <item>
       <title>Test Episode - System Check</title>
       <description>Test episode. System check.</description>
@@ -29,6 +35,22 @@ Nampa ...</description>
       <guid isPermaLink="true">https://junkernet.github.io/podcast/episodes/2026-03-20-rick-hogaboam-obituary-gem-state-chronicle.mp3</guid>
       <enclosure url="https://junkernet.github.io/podcast/episodes/2026-03-20-rick-hogaboam-obituary-gem-state-chronicle.mp3" length="3759360" type="audio/mpeg"/>
       <itunes:summary>Last night, as I was finishing a meeting of the Eagle Public Library Board of Trustees, I heard sirens and saw numerous emergency vehicles rushing to Eagle City Hall. Mayors from across the region had gathered for a meeting of the Treasure Valley Partners</itunes:summary>
+    </item>
+    <item>
+      <title>[Gem State Chronicle] Rest in Peace Rick Hogaboam (3m)</title>
+      <description><![CDATA[The article reflects on the sudden passing of Nampa Mayor Rick Hogaboam, who collapsed during a meeting and could not be revived despite efforts to save him. His death is a significant loss for the community and the state of Idaho, as he was seen as a promising leader with a deep understanding of civic issues and a strong commitment to his faith. The author emphasizes the importance of valuing life and prioritizing what truly matters, using Hogaboam's legacy as an example for public servants and citizens alike.
+
+Source: Gem State Chronicle
+Author: Brian Almon
+Published: March 19, 2026
+Converted: March 20, 2026
+Read the original: https://gemstatechronicle.com/2026/03/rest-in-peace-rick-hogaboam/]]></description>
+      <pubDate>Fri, 20 Mar 2026 12:03:40 -0600</pubDate>
+      <guid isPermaLink="true">https://junkernet.github.io/podcast/episodes/2026-03-20-rest-in-peace-rick-hogaboam.mp3</guid>
+      <enclosure url="https://junkernet.github.io/podcast/episodes/2026-03-20-rest-in-peace-rick-hogaboam.mp3" length="3902880" type="audio/mpeg"/>
+      <itunes:duration>195</itunes:duration>
+      <itunes:summary>The article reflects on the sudden passing of Nampa Mayor Rick Hogaboam, who collapsed during a meeting and could not be revived despite efforts to save him. His death is a significant loss for the community and the state of Idaho, as he was seen as a pro</itunes:summary>
+      <itunes:author>Brian Almon</itunes:author>
     </item>
   </channel>
 </rss>
