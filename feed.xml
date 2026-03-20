@@ -6,7 +6,7 @@
     <link>https://junkernet.github.io/podcast</link>
     <description>Claw Feed — private audio.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Mar 2026 13:46:23 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 13:47:10 -0600</lastBuildDate>
     <atom:link href="https://junkernet.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Private</itunes:author>
     <itunes:owner>
@@ -81,6 +81,25 @@ Read the original: https://www.dailywire.com/news/afromans-victory-is-americas-v
       <itunes:episode>3</itunes:episode>
       <itunes:image href="https://junkernet.github.io/podcast/episodes/2026-03-20-afromans-victory-is-americas-victory-art.jpg"/>
       <podcast:transcript url="https://junkernet.github.io/podcast/episodes/2026-03-20-afromans-victory-is-americas-victory.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>[Dailywire] Iranian Leaders: We Have The Americans Exactly Where We Want Them (2m)</title>
+      <description><![CDATA[The article employs satire to critique the portrayal of American military efforts in Iran, suggesting that Iranian leaders believe they have the upper hand against U.S. forces. It highlights the absurdity of the situation by depicting Iranian officials as willing to sacrifice themselves to protect their military, while also mocking the media's coverage of the conflict. This matters as it underscores the complexities and often dark humor surrounding geopolitical tensions, emphasizing the disconnect between reality and media narratives.
+
+Source: Dailywire
+Author: Unknown
+Published: March 20, 2026
+Converted: March 20, 2026
+Read the original: https://www.dailywire.com/news/iranian-leaders-we-have-the-americans-exactly-where-we-want-them]]></description>
+      <pubDate>Fri, 20 Mar 2026 13:47:10 -0600</pubDate>
+      <guid isPermaLink="true">https://junkernet.github.io/podcast/episodes/2026-03-20-iranian-leaders-we-have-the-americans-exactly-where-we-want.mp3</guid>
+      <enclosure url="https://junkernet.github.io/podcast/episodes/2026-03-20-iranian-leaders-we-have-the-americans-exactly-where-we-want.mp3" length="2557920" type="audio/mpeg"/>
+      <itunes:duration>127</itunes:duration>
+      <itunes:summary>The article employs satire to critique the portrayal of American military efforts in Iran, suggesting that Iranian leaders believe they have the upper hand against U.S. forces.</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>4</itunes:episode>
+      <itunes:image href="https://junkernet.github.io/podcast/episodes/2026-03-20-iranian-leaders-we-have-the-americans-exactly-where-we-want-art.jpg"/>
+      <podcast:transcript url="https://junkernet.github.io/podcast/episodes/2026-03-20-iranian-leaders-we-have-the-americans-exactly-where-we-want.vtt" type="text/vtt"/>
     </item>
   </channel>
 </rss>
