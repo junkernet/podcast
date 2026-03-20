@@ -1,15 +1,15 @@
 <?xml version="1.0" ?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>Jeff's Private Feed</title>
-    <link>https://jeffalldridge.github.io/jeff-podcast</link>
-    <description>Jeff Alldridge's private podcast feed — articles converted to audio.</description>
+    <title>Private Feed</title>
+    <link>https://junkernet.github.io/podcast</link>
+    <description>Personal audio feed.</description>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Mar 2026 10:49:18 -0600</lastBuildDate>
-    <atom:link href="https://jeffalldridge.github.io/jeff-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <itunes:author>Jeff Alldridge</itunes:author>
+    <atom:link href="https://junkernet.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>Private</itunes:author>
     <itunes:owner>
-      <itunes:name>Jeff Alldridge</itunes:name>
+      <itunes:name>Private</itunes:name>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
@@ -17,8 +17,8 @@
       <title>Test Episode - System Check</title>
       <description>This is a test episode for Jeff's private podcast feed. The system is working correctly. Articles and web pages can be converted to audio and served as a podcast.</description>
       <pubDate>Fri, 20 Mar 2026 10:49:18 -0600</pubDate>
-      <guid isPermaLink="true">https://jeffalldridge.github.io/jeff-podcast/episodes/2026-03-20-test-episode-system-check.mp3</guid>
-      <enclosure url="https://jeffalldridge.github.io/jeff-podcast/episodes/2026-03-20-test-episode-system-check.mp3" length="199200" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://junkernet.github.io/podcast/episodes/2026-03-20-test-episode-system-check.mp3</guid>
+      <enclosure url="https://junkernet.github.io/podcast/episodes/2026-03-20-test-episode-system-check.mp3" length="199200" type="audio/mpeg"/>
       <itunes:summary>This is a test episode for Jeff's private podcast feed. The system is working correctly. Articles and web pages can be converted to audio and served as a podcast.</itunes:summary>
     </item>
   </channel>
