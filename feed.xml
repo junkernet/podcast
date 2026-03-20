@@ -15,6 +15,8 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:type>episodic</itunes:type>
+    <itunes:block>Yes</itunes:block>
+    <podcast:locked>yes</podcast:locked>
     <itunes:image href="https://junkernet.github.io/podcast/artwork.jpg"/>
     <image>
       <url>https://junkernet.github.io/podcast/artwork.jpg</url>
