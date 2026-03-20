@@ -14,6 +14,7 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <itunes:type>episodic</itunes:type>
     <itunes:image href="https://junkernet.github.io/podcast/artwork.jpg"/>
     <image>
       <url>https://junkernet.github.io/podcast/artwork.jpg</url>
@@ -32,8 +33,11 @@ Read the original: https://gemstatechronicle.com/2026/03/rest-in-peace-rick-hoga
       <guid isPermaLink="true">https://junkernet.github.io/podcast/episodes/2026-03-20-rest-in-peace-rick-hogaboam.mp3</guid>
       <enclosure url="https://junkernet.github.io/podcast/episodes/2026-03-20-rest-in-peace-rick-hogaboam.mp3" length="3902880" type="audio/mpeg"/>
       <itunes:duration>195</itunes:duration>
-      <itunes:summary>The article reflects on the sudden passing of Nampa Mayor Rick Hogaboam, who collapsed during a meeting and could not be revived despite efforts to save him. His death is a significant loss for the community and the state of Idaho, as he was seen as a pro</itunes:summary>
+      <itunes:summary>The article reflects on the sudden passing of Nampa Mayor Rick Hogaboam, who collapsed during a meeting and could not be revived despite efforts to save him.</itunes:summary>
       <itunes:author>Brian Almon</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <podcast:transcript url="https://junkernet.github.io/podcast/episodes/2026-03-20-rest-in-peace-rick-hogaboam.vtt" type="text/vtt"/>
     </item>
   </channel>
 </rss>
