@@ -454,6 +454,7 @@ def extract_metadata(url: str) -> dict:
 
     if tavily_text and not metadata["source"]:
         # Extract domain as source name
+        from urllib.parse import urlparse
         domain = urlparse(metadata["url"]).netloc.replace('www.', '')
         known = {
             'idahocapitalsun.com': 'Idaho Capital Sun',
@@ -595,6 +596,7 @@ KILL_TRIGGERS = [
 
 STRIP_PATTERNS = [
     (r'https?://\S+', ''),                          # URLs
+    (r'data:[a-zA-Z0-9/;,+=\-_.]+\S*', ''),        # data: URIs (base64 images, SVGs, etc.)
     (r'!\[.*?\]\(.*?\)', ''),                        # Markdown images
     (r'\[([^\]]+)\]\([^\)]+\)', r'\1'),              # Markdown links → keep text
     (r'\*{1,3}([^*]+)\*{1,3}', r'\1'),              # Bold/italic → keep text
@@ -1128,7 +1130,7 @@ def add_episode_to_feed(
     if vtt_filename:
         vtt_url = f"{EPISODES_URL}/{quote(vtt_filename)}"
         item_lines.append(
-            f'      <podcast:transcript url="{vtt_url}" type="text/vtt"/>'
+            f'      <podcast:transcript url="{vtt_url}" type="text/vtt" language="en" rel="captions"/>'
         )
 
     if chapters_filename:

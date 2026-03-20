@@ -41,7 +41,7 @@ Read the original: https://gemstatechronicle.com/2026/03/rest-in-peace-rick-hoga
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>1</itunes:episode>
       <itunes:image href="https://junkernet.github.io/podcast/episodes/2026-03-20-rest-in-peace-rick-hogaboam-art.jpg"/>
-      <podcast:transcript url="https://junkernet.github.io/podcast/episodes/2026-03-20-rest-in-peace-rick-hogaboam.vtt" type="text/vtt"/>
+      <podcast:transcript url="https://junkernet.github.io/podcast/episodes/2026-03-20-rest-in-peace-rick-hogaboam.vtt" type="text/vtt" language="en" rel="captions"/>
     </item>
     <item>
       <title>[Idaho Capital Sun] Idaho budget committee introduces new health and welfare budget with additional cuts (3m)</title>
@@ -61,7 +61,7 @@ Read the original: https://idahocapitalsun.com/2026/03/19/idaho-budget-committee
       <itunes:episode>2</itunes:episode>
       <itunes:author>Clark Corbin</itunes:author>
       <itunes:image href="https://junkernet.github.io/podcast/episodes/2026-03-20-idaho-budget-committee-introduces-new-health-and-welfare-bud-art.jpg"/>
-      <podcast:transcript url="https://junkernet.github.io/podcast/episodes/2026-03-20-idaho-budget-committee-introduces-new-health-and-welfare-bud.vtt" type="text/vtt"/>
+      <podcast:transcript url="https://junkernet.github.io/podcast/episodes/2026-03-20-idaho-budget-committee-introduces-new-health-and-welfare-bud.vtt" type="text/vtt" language="en" rel="captions"/>
     </item>
     <item>
       <title>[Dailywire] Afroman’s Victory Is America’s Victory (2m)</title>
@@ -80,7 +80,7 @@ Read the original: https://www.dailywire.com/news/afromans-victory-is-americas-v
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>3</itunes:episode>
       <itunes:image href="https://junkernet.github.io/podcast/episodes/2026-03-20-afromans-victory-is-americas-victory-art.jpg"/>
-      <podcast:transcript url="https://junkernet.github.io/podcast/episodes/2026-03-20-afromans-victory-is-americas-victory.vtt" type="text/vtt"/>
+      <podcast:transcript url="https://junkernet.github.io/podcast/episodes/2026-03-20-afromans-victory-is-americas-victory.vtt" type="text/vtt" language="en" rel="captions"/>
     </item>
     <item>
       <title>[Dailywire] Iranian Leaders: We Have The Americans Exactly Where We Want Them (2m)</title>
@@ -99,7 +99,7 @@ Read the original: https://www.dailywire.com/news/iranian-leaders-we-have-the-am
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>4</itunes:episode>
       <itunes:image href="https://junkernet.github.io/podcast/episodes/2026-03-20-iranian-leaders-we-have-the-americans-exactly-where-we-want-art.jpg"/>
-      <podcast:transcript url="https://junkernet.github.io/podcast/episodes/2026-03-20-iranian-leaders-we-have-the-americans-exactly-where-we-want.vtt" type="text/vtt"/>
+      <podcast:transcript url="https://junkernet.github.io/podcast/episodes/2026-03-20-iranian-leaders-we-have-the-americans-exactly-where-we-want.vtt" type="text/vtt" language="en" rel="captions"/>
     </item>
     <item>
       <title>[Dailywire] Your Tax Dollars Could Still Be On The Line In Fight Over Trans Surgeries for Kids (2m)</title>
@@ -118,7 +118,7 @@ Read the original: https://www.dailywire.com/news/your-tax-dollars-could-still-b
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>5</itunes:episode>
       <itunes:image href="https://junkernet.github.io/podcast/episodes/2026-03-20-your-tax-dollars-could-still-be-on-the-line-in-fight-over-tr-art.jpg"/>
-      <podcast:transcript url="https://junkernet.github.io/podcast/episodes/2026-03-20-your-tax-dollars-could-still-be-on-the-line-in-fight-over-tr.vtt" type="text/vtt"/>
+      <podcast:transcript url="https://junkernet.github.io/podcast/episodes/2026-03-20-your-tax-dollars-could-still-be-on-the-line-in-fight-over-tr.vtt" type="text/vtt" language="en" rel="captions"/>
     </item>
   </channel>
 </rss>
