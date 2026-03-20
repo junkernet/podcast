@@ -39,24 +39,5 @@ Read the original: https://gemstatechronicle.com/2026/03/rest-in-peace-rick-hoga
       <itunes:episode>1</itunes:episode>
       <podcast:transcript url="https://junkernet.github.io/podcast/episodes/2026-03-20-rest-in-peace-rick-hogaboam.vtt" type="text/vtt"/>
     </item>
-    <item>
-      <title>[Gem State Chronicle] Rest in Peace Rick Hogaboam (3m)</title>
-      <description><![CDATA[The article reflects on the sudden passing of Nampa Mayor Rick Hogaboam, who collapsed during a meeting and was unable to be revived despite immediate CPR efforts. His death is a significant loss for Nampa and Idaho, as he was seen as a promising leader with a strong understanding of local governance and a commitment to his faith. The author emphasizes the importance of valuing life and maintaining priorities, highlighting Hogaboam's example of integrating faith with public service.
-
-Source: Gem State Chronicle
-Author: Brian Almon
-Published: March 19, 2026
-Converted: March 20, 2026
-Read the original: https://gemstatechronicle.com/2026/03/rest-in-peace-rick-hogaboam/]]></description>
-      <pubDate>Fri, 20 Mar 2026 12:34:48 -0600</pubDate>
-      <guid isPermaLink="true">https://junkernet.github.io/podcast/episodes/2026-03-20-rest-in-peace-rick-hogaboam.mp3</guid>
-      <enclosure url="https://junkernet.github.io/podcast/episodes/2026-03-20-rest-in-peace-rick-hogaboam.mp3" length="3135360" type="audio/mpeg"/>
-      <itunes:duration>156</itunes:duration>
-      <itunes:summary>The article reflects on the sudden passing of Nampa Mayor Rick Hogaboam, who collapsed during a meeting and was unable to be revived despite immediate CPR efforts.</itunes:summary>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>2</itunes:episode>
-      <itunes:author>Brian Almon</itunes:author>
-      <podcast:transcript url="https://junkernet.github.io/podcast/episodes/2026-03-20-rest-in-peace-rick-hogaboam.vtt" type="text/vtt"/>
-    </item>
   </channel>
 </rss>
