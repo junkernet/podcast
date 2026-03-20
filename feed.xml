@@ -21,6 +21,7 @@
     <image>
       <url>https://junkernet.github.io/podcast/artwork.jpg</url>
       <title>Claw Feed</title>
+      <link>https://junkernet.github.io/podcast</link>
     </image>
     <item>
       <title>[Gem State Chronicle] Rest in Peace Rick Hogaboam (3m)</title>
@@ -39,6 +40,7 @@ Read the original: https://gemstatechronicle.com/2026/03/rest-in-peace-rick-hoga
       <itunes:author>Brian Almon</itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>1</itunes:episode>
+      <itunes:image href=https://junkernet.github.io/podcast/episodes/2026-03-20-rest-in-peace-rick-hogaboam-art.jpg"/>
       <podcast:transcript url="https://junkernet.github.io/podcast/episodes/2026-03-20-rest-in-peace-rick-hogaboam.vtt" type="text/vtt"/>
     </item>
     <item>
@@ -58,6 +60,7 @@ Read the original: https://idahocapitalsun.com/2026/03/19/idaho-budget-committee
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>2</itunes:episode>
       <itunes:author>Clark Corbin</itunes:author>
+      <itunes:image href=https://junkernet.github.io/podcast/episodes/2026-03-20-idaho-budget-committee-introduces-new-health-and-welfare-bud-art.jpg"/>
       <podcast:transcript url="https://junkernet.github.io/podcast/episodes/2026-03-20-idaho-budget-committee-introduces-new-health-and-welfare-bud.vtt" type="text/vtt"/>
     </item>
   </channel>
