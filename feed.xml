@@ -15,11 +15,11 @@
     <itunes:category text="Technology"/>
     <item>
       <title>Test Episode - System Check</title>
-      <description>This is a test episode for Jeff's private podcast feed. The system is working correctly. Articles and web pages can be converted to audio and served as a podcast.</description>
+      <description>This is a test episode for Test episode. System check.</description>
       <pubDate>Fri, 20 Mar 2026 10:49:18 -0600</pubDate>
       <guid isPermaLink="true">https://junkernet.github.io/podcast/episodes/2026-03-20-test-episode-system-check.mp3</guid>
       <enclosure url="https://junkernet.github.io/podcast/episodes/2026-03-20-test-episode-system-check.mp3" length="199200" type="audio/mpeg"/>
-      <itunes:summary>This is a test episode for Jeff's private podcast feed. The system is working correctly. Articles and web pages can be converted to audio and served as a podcast.</itunes:summary>
+      <itunes:summary>This is a test episode for Test episode. System check.</itunes:summary>
     </item>
   </channel>
 </rss>
