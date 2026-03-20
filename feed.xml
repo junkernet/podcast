@@ -2,9 +2,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom"
      xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>Private Feed</title>
+    <title>Claw Feed</title>
     <link>https://junkernet.github.io/podcast</link>
-    <description>Personal audio feed.</description>
+    <description>Claw Feed — private audio.</description>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Mar 2026 12:03:40 -0600</lastBuildDate>
     <atom:link href="https://junkernet.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
@@ -17,7 +17,7 @@
     <itunes:image href="https://junkernet.github.io/podcast/artwork.jpg"/>
     <image>
       <url>https://junkernet.github.io/podcast/artwork.jpg</url>
-      <title>Private Feed</title>
+      <title>Claw Feed</title>
     </image>
     <item>
       <title>[Gem State Chronicle] Rest in Peace Rick Hogaboam (3m)</title>
