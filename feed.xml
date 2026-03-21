@@ -6,7 +6,7 @@
     <link>https://junkernet.github.io/podcast</link>
     <description>Claw Feed — private audio.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Mar 2026 14:18:18 -0600</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 09:31:44 -0600</lastBuildDate>
     <atom:link href="https://junkernet.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Private</itunes:author>
     <itunes:owner>
@@ -122,6 +122,26 @@ Read the original: https://www.dailywire.com/news/your-tax-dollars-could-still-b
       <itunes:episode>5</itunes:episode>
       <itunes:image href="https://junkernet.github.io/podcast/episodes/2026-03-20-your-tax-dollars-could-still-be-on-the-line-in-fight-over-tr-art.jpg"/>
       <podcast:transcript url="https://junkernet.github.io/podcast/episodes/2026-03-20-your-tax-dollars-could-still-be-on-the-line-in-fight-over-tr.vtt" type="text/vtt" language="en" rel="captions"/>
+    </item>
+    <item>
+      <title>[Push Square] Years After Announcement, Netflix's Assassin's Creed TV Series Finally Begins Production (2m)</title>
+      <description><![CDATA[Netflix's long-anticipated *Assassin's Creed* TV series has finally begun production in Rome, Italy, after being announced over five years ago. The show will feature an original storyline set in 64 AD, focusing on the conflict between two factions vying for control over humanity's future. This development is significant as it marks a major step forward for the adaptation, which has been eagerly awaited by fans of the franchise.
+
+Source: Push Square
+Author: Push Square
+Published: March 20, 2026
+Converted: March 21, 2026
+Read the original: https://www.pushsquare.com/news/2026/03/years-after-announcement-netflixs-assassins-creed-tv-series-finally-begins-production]]></description>
+      <pubDate>Sat, 21 Mar 2026 09:31:44 -0600</pubDate>
+      <guid isPermaLink="true">https://junkernet.github.io/podcast/episodes/2026-03-21-years-after-announcement-netflixs-assassins-creed-tv-series.mp3</guid>
+      <enclosure url="https://junkernet.github.io/podcast/episodes/2026-03-21-years-after-announcement-netflixs-assassins-creed-tv-series.mp3" length="1936320" type="audio/mpeg"/>
+      <itunes:duration>96</itunes:duration>
+      <itunes:summary>Netflix's long-anticipated *Assassin's Creed* TV series has finally begun production in Rome, Italy, after being announced over five years ago.</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>6</itunes:episode>
+      <itunes:author>Push Square</itunes:author>
+      <itunes:image href="https://junkernet.github.io/podcast/episodes/2026-03-21-years-after-announcement-netflixs-assassins-creed-tv-series-art.jpg"/>
+      <podcast:transcript url="https://junkernet.github.io/podcast/episodes/2026-03-21-years-after-announcement-netflixs-assassins-creed-tv-series.vtt" type="text/vtt" language="en" rel="captions"/>
     </item>
   </channel>
 </rss>
