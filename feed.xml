@@ -6,7 +6,7 @@
     <link>https://junkernet.github.io/podcast</link>
     <description>Claw Feed — private audio.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Apr 2026 13:34:20 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 13:35:14 -0600</lastBuildDate>
     <atom:link href="https://junkernet.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Private</itunes:author>
     <itunes:owner>
@@ -181,6 +181,26 @@ Read the original: https://idahocapitalsun.com/2026/04/01/repub/trump-signs-orde
       <itunes:episode>8</itunes:episode>
       <itunes:image href="https://junkernet.github.io/podcast/episodes/2026-04-01-trump-signs-order-seeking-to-curb-vote-by-mail-in-bid-to-con-art.jpg"/>
       <podcast:transcript url="https://junkernet.github.io/podcast/episodes/2026-04-01-trump-signs-order-seeking-to-curb-vote-by-mail-in-bid-to-con.vtt" type="text/vtt" language="en" rel="captions"/>
+    </item>
+    <item>
+      <title>[Gem State Chronicle] RELEASE: Idaho aims to anchor new nuclear innovation campus in Idaho | Gem State Chronicle (3m)</title>
+      <description><![CDATA[Idaho has submitted a proposal to the U.S. Department of Energy to host a Nuclear Lifecycle Innovation Campus, aiming to enhance the state's role in advanced nuclear energy development. This initiative is significant as it could strengthen Idaho's economy, provide reliable energy, and reinforce its historical leadership in nuclear innovation. Governor Brad Little emphasized the potential for affordable, clean energy for Idaho families and the state's readiness to support the growth of the nuclear industry.
+
+Source: Gem State Chronicle
+Author: Brad Little
+Published: April 1, 2026
+Converted: April 1, 2026
+Read the original: https://gemstatechronicle.com/2026/04/release-idaho-aims-to-anchor-new-nuclear-innovation-campus-in-idaho/]]></description>
+      <pubDate>Wed, 01 Apr 2026 13:35:14 -0600</pubDate>
+      <guid isPermaLink="true">https://junkernet.github.io/podcast/episodes/2026-04-01-release-idaho-aims-to-anchor-new-nuclear-innovation-campus-i.mp3</guid>
+      <enclosure url="https://junkernet.github.io/podcast/episodes/2026-04-01-release-idaho-aims-to-anchor-new-nuclear-innovation-campus-i.mp3" length="3178560" type="audio/mpeg"/>
+      <itunes:duration>158</itunes:duration>
+      <itunes:summary>Idaho has submitted a proposal to the U.S. Department of Energy to host a Nuclear Lifecycle Innovation Campus, aiming to enhance the state's role in advanced nuclear energy development.</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>9</itunes:episode>
+      <itunes:author>Brad Little</itunes:author>
+      <itunes:image href="https://junkernet.github.io/podcast/episodes/2026-04-01-release-idaho-aims-to-anchor-new-nuclear-innovation-campus-i-art.jpg"/>
+      <podcast:transcript url="https://junkernet.github.io/podcast/episodes/2026-04-01-release-idaho-aims-to-anchor-new-nuclear-innovation-campus-i.vtt" type="text/vtt" language="en" rel="captions"/>
     </item>
   </channel>
 </rss>
