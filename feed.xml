@@ -6,7 +6,7 @@
     <link>https://junkernet.github.io/podcast</link>
     <description>Claw Feed — private audio.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Apr 2026 13:33:38 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 13:34:20 -0600</lastBuildDate>
     <atom:link href="https://junkernet.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Private</itunes:author>
     <itunes:owner>
@@ -162,6 +162,25 @@ Read the original: https://idahocapitalsun.com/2026/03/31/idaho-legislature-pass
       <itunes:author>Kyle Pfannenstiel</itunes:author>
       <itunes:image href="https://junkernet.github.io/podcast/episodes/2026-04-01-idaho-legislature-passes-bill-for-medicaid-expansion-work-re-art.jpg"/>
       <podcast:transcript url="https://junkernet.github.io/podcast/episodes/2026-04-01-idaho-legislature-passes-bill-for-medicaid-expansion-work-re.vtt" type="text/vtt" language="en" rel="captions"/>
+    </item>
+    <item>
+      <title>[Idaho Capital Sun] Trump signs order seeking to curb vote-by-mail in bid to control state election laws (2m)</title>
+      <description><![CDATA[President Trump signed an executive order aimed at restricting mail-in voting by directing federal agencies to compile lists of voting-age citizens and requiring the U.S. Postal Service to implement tracking for ballots. This move signifies a significant attempt to assert federal control over elections, which are constitutionally managed by states, and reflects ongoing concerns about noncitizen voting, despite evidence showing its rarity. The order is likely to face legal challenges and raises questions about the implications for voter access and election integrity.
+
+Source: Idaho Capital Sun
+Author: Unknown
+Published: Unknown
+Converted: April 1, 2026
+Read the original: https://idahocapitalsun.com/2026/04/01/repub/trump-signs-order-seeking-to-curb-vote-by-mail-in-bid-to-control-state-election-laws/]]></description>
+      <pubDate>Wed, 01 Apr 2026 13:34:20 -0600</pubDate>
+      <guid isPermaLink="true">https://junkernet.github.io/podcast/episodes/2026-04-01-trump-signs-order-seeking-to-curb-vote-by-mail-in-bid-to-con.mp3</guid>
+      <enclosure url="https://junkernet.github.io/podcast/episodes/2026-04-01-trump-signs-order-seeking-to-curb-vote-by-mail-in-bid-to-con.mp3" length="2512320" type="audio/mpeg"/>
+      <itunes:duration>125</itunes:duration>
+      <itunes:summary>President Trump signed an executive order aimed at restricting mail-in voting by directing federal agencies to compile lists of voting-age citizens and requiring the U.S. Postal Service to implement tracking for ballots.</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>8</itunes:episode>
+      <itunes:image href="https://junkernet.github.io/podcast/episodes/2026-04-01-trump-signs-order-seeking-to-curb-vote-by-mail-in-bid-to-con-art.jpg"/>
+      <podcast:transcript url="https://junkernet.github.io/podcast/episodes/2026-04-01-trump-signs-order-seeking-to-curb-vote-by-mail-in-bid-to-con.vtt" type="text/vtt" language="en" rel="captions"/>
     </item>
   </channel>
 </rss>
