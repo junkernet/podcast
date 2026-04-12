@@ -6,7 +6,7 @@
     <link>https://junkernet.github.io/podcast</link>
     <description>Claw Feed — private audio.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Apr 2026 17:48:55 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 17:51:13 -0600</lastBuildDate>
     <atom:link href="https://junkernet.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Private</itunes:author>
     <itunes:owner>
@@ -239,6 +239,25 @@ Read the original: https://www.dailywire.com/news/closing-ranks-bipartisan-calls
       <itunes:episode>11</itunes:episode>
       <itunes:image href="https://junkernet.github.io/podcast/episodes/2026-04-12-closing-ranks-bipartisan-calls-for-swalwells-resignation-sur-art.jpg"/>
       <podcast:transcript url="https://junkernet.github.io/podcast/episodes/2026-04-12-closing-ranks-bipartisan-calls-for-swalwells-resignation-sur.vtt" type="text/vtt" language="en" rel="captions"/>
+    </item>
+    <item>
+      <title>[Daily Wire] What America Learned From Negotiations With Iran (5m)</title>
+      <description><![CDATA[The recent negotiations between the United States and Iran revealed a significant disconnect, with U.S. officials concluding that Iran is not fully aware of its position in the geopolitical landscape. Despite extensive discussions, Iran's refusal to abandon its nuclear ambitions led President Trump to announce a blockade of the Strait of Hormuz, emphasizing the U.S. commitment to preventing Iran from acquiring nuclear weapons. This situation underscores the challenges in diplomatic relations and the potential for escalating tensions in the region.
+
+Source: Daily Wire
+Author: Unknown
+Published: April 12, 2026
+Converted: April 12, 2026
+Read the original: https://www.dailywire.com/news/what-america-learned-from-negotiations-with-iran?topStoryPosition=undefined&amp;author=Mary+Margaret+Olohan&amp;category=Original&amp;elementPosition=0&amp;row=1&amp;rowHeadline=Top+Stories&amp;rowType=Top+Stories&amp;title=What+America+Learned+From+Negotiations+With+Iran]]></description>
+      <pubDate>Sun, 12 Apr 2026 17:51:13 -0600</pubDate>
+      <guid isPermaLink="true">https://junkernet.github.io/podcast/episodes/2026-04-12-what-america-learned-from-negotiations-with-iran.mp3</guid>
+      <enclosure url="https://junkernet.github.io/podcast/episodes/2026-04-12-what-america-learned-from-negotiations-with-iran.mp3" length="6419040" type="audio/mpeg"/>
+      <itunes:duration>320</itunes:duration>
+      <itunes:summary>The recent negotiations between the United States and Iran revealed a significant disconnect, with U.S. officials concluding that Iran is not fully aware of its position in the geopolitical landscape.</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>12</itunes:episode>
+      <itunes:image href="https://junkernet.github.io/podcast/episodes/2026-04-12-what-america-learned-from-negotiations-with-iran-art.jpg"/>
+      <podcast:transcript url="https://junkernet.github.io/podcast/episodes/2026-04-12-what-america-learned-from-negotiations-with-iran.vtt" type="text/vtt" language="en" rel="captions"/>
     </item>
   </channel>
 </rss>
