@@ -6,7 +6,7 @@
     <link>https://junkernet.github.io/podcast</link>
     <description>Claw Feed — private audio.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Apr 2026 13:35:14 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 14:26:14 -0600</lastBuildDate>
     <atom:link href="https://junkernet.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Private</itunes:author>
     <itunes:owner>
@@ -201,6 +201,25 @@ Read the original: https://gemstatechronicle.com/2026/04/release-idaho-aims-to-a
       <itunes:author>Brad Little</itunes:author>
       <itunes:image href="https://junkernet.github.io/podcast/episodes/2026-04-01-release-idaho-aims-to-anchor-new-nuclear-innovation-campus-i-art.jpg"/>
       <podcast:transcript url="https://junkernet.github.io/podcast/episodes/2026-04-01-release-idaho-aims-to-anchor-new-nuclear-innovation-campus-i.vtt" type="text/vtt" language="en" rel="captions"/>
+    </item>
+    <item>
+      <title>[Daily Wire] Liberal Media Wants You To Know: They Knew Eric Swalwell Was A Sex Pest, And Didn’t Report A Thing (4m)</title>
+      <description><![CDATA[The article discusses recent sexual assault allegations against Rep. Eric Swalwell (D-CA) and highlights claims from various media and political figures who assert they were aware of his inappropriate behavior for years but chose not to report it. This raises significant ethical concerns about the responsibility of journalists and political insiders to protect potential victims by disclosing such information, as critics argue that their silence may have endangered women. The situation underscores the complexities of accountability within political circles and the media's role in addressing misconduct.
+
+Source: Daily Wire
+Author: Unknown
+Published: April 12, 2026
+Converted: April 12, 2026
+Read the original: https://www.dailywire.com/news/liberal-media-wants-you-to-know-they-knew-eric-swalwell-was-a-sex-pest-and-didnt-report-a-thing?topStoryPosition=undefined&amp;author=Virginia+Kruta&amp;category=News&amp;elementPosition=3&amp;row=1&amp;rowHeadline=Top+Stories&amp;rowType=Top+Stories&amp;title=Liberal+Media+Wants+You+To+Know%3A+They+Knew+Eric+Swalwell+Was+A+Sex+Pest%2C+And+Didn’t+Report+A+Thing]]></description>
+      <pubDate>Sun, 12 Apr 2026 14:26:14 -0600</pubDate>
+      <guid isPermaLink="true">https://junkernet.github.io/podcast/episodes/2026-04-12-liberal-media-wants-you-to-know-they-knew-eric-swalwell-was.mp3</guid>
+      <enclosure url="https://junkernet.github.io/podcast/episodes/2026-04-12-liberal-media-wants-you-to-know-they-knew-eric-swalwell-was.mp3" length="5169600" type="audio/mpeg"/>
+      <itunes:duration>258</itunes:duration>
+      <itunes:summary>The article discusses recent sexual assault allegations against Rep. Eric Swalwell (D-CA) and highlights claims from various media and political figures who assert they were aware of his inappropriate behavior for years but chose not to report it.</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>10</itunes:episode>
+      <itunes:image href="https://junkernet.github.io/podcast/episodes/2026-04-12-liberal-media-wants-you-to-know-they-knew-eric-swalwell-was-art.jpg"/>
+      <podcast:transcript url="https://junkernet.github.io/podcast/episodes/2026-04-12-liberal-media-wants-you-to-know-they-knew-eric-swalwell-was.vtt" type="text/vtt" language="en" rel="captions"/>
     </item>
   </channel>
 </rss>
