@@ -6,7 +6,7 @@
     <link>https://junkernet.github.io/podcast</link>
     <description>Claw Feed — private audio.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Apr 2026 14:26:14 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 17:48:55 -0600</lastBuildDate>
     <atom:link href="https://junkernet.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Private</itunes:author>
     <itunes:owner>
@@ -220,6 +220,25 @@ Read the original: https://www.dailywire.com/news/liberal-media-wants-you-to-kno
       <itunes:episode>10</itunes:episode>
       <itunes:image href="https://junkernet.github.io/podcast/episodes/2026-04-12-liberal-media-wants-you-to-know-they-knew-eric-swalwell-was-art.jpg"/>
       <podcast:transcript url="https://junkernet.github.io/podcast/episodes/2026-04-12-liberal-media-wants-you-to-know-they-knew-eric-swalwell-was.vtt" type="text/vtt" language="en" rel="captions"/>
+    </item>
+    <item>
+      <title>[Daily Wire] Closing Ranks: Bipartisan Calls For Swalwell’s Resignation Surge (6m)</title>
+      <description><![CDATA[Pressure is mounting on Rep. Eric Swalwell (D-CA) as bipartisan calls for his resignation or expulsion grow amid a sexual misconduct scandal and an active criminal investigation. Prominent lawmakers from both parties, including Democrats like Ro Khanna and Pramila Jayapal, emphasize the need for accountability and the importance of setting a standard for behavior in Congress, highlighting that such allegations undermine the integrity of the institution. This situation matters as it reflects a rare moment of unity across party lines in addressing misconduct, potentially influencing broader cultural changes in congressional ethics and accountability.
+
+Source: Daily Wire
+Author: Unknown
+Published: April 12, 2026
+Converted: April 12, 2026
+Read the original: https://www.dailywire.com/news/closing-ranks-bipartisan-calls-for-swalwells-resignation-surge?topStoryPosition=undefined&amp;author=Drew+Berkemeyer&amp;category=News+and+Analysis&amp;elementPosition=1&amp;row=1&amp;rowHeadline=Top+Stories&amp;rowType=Top+Stories&amp;title=Closing+Ranks%3A+Bipartisan+Calls+For+Swalwell’s+Resignation+Surge]]></description>
+      <pubDate>Sun, 12 Apr 2026 17:48:55 -0600</pubDate>
+      <guid isPermaLink="true">https://junkernet.github.io/podcast/episodes/2026-04-12-closing-ranks-bipartisan-calls-for-swalwells-resignation-sur.mp3</guid>
+      <enclosure url="https://junkernet.github.io/podcast/episodes/2026-04-12-closing-ranks-bipartisan-calls-for-swalwells-resignation-sur.mp3" length="6679680" type="audio/mpeg"/>
+      <itunes:duration>333</itunes:duration>
+      <itunes:summary>Pressure is mounting on Rep. Eric Swalwell (D-CA) as bipartisan calls for his resignation or expulsion grow amid a sexual misconduct scandal and an active criminal investigation.</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>11</itunes:episode>
+      <itunes:image href="https://junkernet.github.io/podcast/episodes/2026-04-12-closing-ranks-bipartisan-calls-for-swalwells-resignation-sur-art.jpg"/>
+      <podcast:transcript url="https://junkernet.github.io/podcast/episodes/2026-04-12-closing-ranks-bipartisan-calls-for-swalwells-resignation-sur.vtt" type="text/vtt" language="en" rel="captions"/>
     </item>
   </channel>
 </rss>
